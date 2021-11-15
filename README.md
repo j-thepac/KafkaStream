@@ -1,3 +1,4 @@
+_This is a bazel project (make sure u have bazel installed in your system)_
 # Stream
 - data is continuously coming in
 - Spark Streaming is a processing engine to process data in real-time from sources and output data to external storage systems.
